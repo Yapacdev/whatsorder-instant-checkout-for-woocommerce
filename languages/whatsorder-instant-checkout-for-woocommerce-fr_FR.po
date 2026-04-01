@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "WhatsOrder Checkout"
+msgstr "WhatsOrder Checkout"
+
+msgid "Allows customers to complete their orders via WhatsApp."
+msgstr "Permet aux clients de finaliser leurs commandes via WhatsApp."
+
+msgid "Enable/Disable"
+msgstr "Activer/Désactiver"
+
+msgid "Enable WhatsApp Payment"
+msgstr "Activer le paiement via WhatsApp"
+
+msgid "Payment Method Title"
+msgstr "Titre du mode de paiement"
+
+msgid "Title displayed during checkout."
+msgstr "Titre affiché lors du passage en checkout."
+
+msgid "Pay via WhatsApp"
+msgstr "Payer via WhatsApp"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Short description shown to the customer."
+msgstr "Brève description affichée au client."
+
+msgid "Complete your order via WhatsApp."
+msgstr "Finalisez votre commande via WhatsApp."
+
+msgid "WhatsApp Number"
+msgstr "Numéro WhatsApp"
+
+msgid "Your WhatsApp phone number for receiving orders."
+msgstr "Votre numéro WhatsApp pour recevoir les commandes."
+
+msgid "Custom WhatsApp Message"
+msgstr "Message personnalisé WhatsApp"
+
+msgid "Message sent to the customer including the invoice link."
+msgstr "Message envoyé au client comprenant le lien de la facture."
+
+msgid "Hello, I want to place an order. Here is my invoice:"
+msgstr "Bonjour, je souhaite passer une commande. Voici ma facture :"
+
+msgid "Invoice Theme Color"
+msgstr "Couleur du thème de la facture"
+
+msgid "Select the main color for the invoice."
+msgstr "Sélectionnez la couleur principale de la facture."
+
+msgid "Awaiting WhatsApp payment confirmation."
+msgstr "En attente de confirmation de paiement WhatsApp."
+
+msgid "Invoice for Order #%d"
+msgstr "Facture pour la commande #%d"
+
+msgid "Customer"
+msgstr "Client"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "Billing Address"
+msgstr "Adresse de facturation"
+
+msgid "Order Items"
+msgstr "Articles de commande"
+
+msgid "Product"
+msgstr "Produit"
+
+msgid "Qty"
+msgstr "Qté"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Applied Coupons"
+msgstr "Coupons appliqués"
+
+msgid "Shipping Method"
+msgstr "Méthode de livraison"
+
+msgid "Shipping Cost"
+msgstr "Coût de livraison"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Thank you for your order!"
+msgstr "Merci pour votre commande !"
+
+msgid "Powered by"
+msgstr "Propulsé par"
+
+msgid "Additional plugins are required."
+msgstr "Des extensions supplémentaires sont nécessaires."
+
+msgid "More details"
+msgstr "Plus de détails"
+
+msgid "WhatsOrder – Instant Checkout for WooCommerce"
+msgstr "WhatsOrder – Instant Checkout for WooCommerce"
